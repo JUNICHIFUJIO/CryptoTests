@@ -1,0 +1,156 @@
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [6.2903e-07] seconds
+Number of runs tracked: 0
+
+For entries:
+	6.2903e-07 seconds
+
+Average = 0 seconds (0 time entries)
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [6.2903e-07] seconds
+Number of runs tracked: 0
+
+For entries:
+	6.2903e-07 seconds
+
+Average = 0 seconds (0 time entries)
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [6.2903e-07] seconds
+Number of runs tracked: 1
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [6.2903e-07] seconds
+Number of runs tracked: 1
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [6.2903e-07] seconds
+Number of runs tracked: 1
+
+For entries:
+	6.2903e-07 seconds
+
+Average = 3.14515e-07 seconds (2 time entries)
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [] seconds
+Number of runs tracked: 0
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken: [6.2903e-07] seconds
+Number of runs tracked: 1
+
+For entries:
+	6.2903e-07 seconds
+
+Average = 6.2903e-07 seconds (1 time entries)
+Algorithm: SHA256
+Library used: hashlib
+Time taken (seconds): 
+	[]
+Number of runs tracked: 0
+
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken (seconds): 
+	[]
+Number of runs tracked: 0
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken (seconds): 
+	[6.2903e-07]
+Number of runs tracked: 1
+
+For entries:
+	6.2903e-07 seconds
+
+Average = 6.2903e-07 seconds (1 time entries)
+Algorithm: SHA256
+Library used: hashlib
+Time taken (seconds): 
+	[]
+Number of runs tracked: 0
+
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken (seconds): 
+	[]
+Number of runs tracked: 0
+
+Algorithm: SHA256
+Library used: hashlib
+Time taken (seconds): 
+	[6.2903e-07]
+Number of runs tracked: 1
+
+For entries:
+	6.2903e-07 seconds
+
+Average = 6.2903e-07 seconds (1 time entries)
