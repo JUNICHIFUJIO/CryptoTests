@@ -11,7 +11,7 @@ if sys.path[0] != os.path.dirname(os.path.realpath(sys.argv[0])):
 ######################################
 #               IMPORTS              #
 ######################################
-import timeit
+import timeit # ERROR TESTING REMOVE
 from BinaryFileHandler import OpenAppendByteDataFile
 
 ######################################
