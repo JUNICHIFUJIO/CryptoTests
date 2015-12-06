@@ -1,0 +1,204 @@
+
+
+
+Algorithm: arcfour
+Library used: scp
+Time taken (seconds): 
+	[783.880411863327, 777.8838520050049, 781.372682094574, 777.656359910965, 777.8568351268768]
+Number of runs tracked: 5
+
+For entries:
+	783.880411863 seconds
+	777.883852005 seconds
+	781.372682095 seconds
+	777.656359911 seconds
+	777.856835127 seconds
+
+Average = 779.7300282 seconds (5 time entries)
+
+
+
+Algorithm: aes256-ctr
+Library used: scp
+Time taken (seconds): 
+	[783.9893989562988, 780.2761809825897, 780.6988708972931, 782.5648829936981, 777.904632806778]
+Number of runs tracked: 5
+
+For entries:
+	783.989398956 seconds
+	780.276180983 seconds
+	780.698870897 seconds
+	782.564882994 seconds
+	777.904632807 seconds
+
+Average = 781.086793327 seconds (5 time entries)
+
+
+
+Algorithm: blowfish-cbc
+Library used: scp
+Time taken (seconds): 
+	[777.9817850589752, 782.3533098697662, 777.9124391078949, 791.6978559494019, 779.5048830509186]
+Number of runs tracked: 5
+
+For entries:
+	777.981785059 seconds
+	782.35330987 seconds
+	777.912439108 seconds
+	791.697855949 seconds
+	779.504883051 seconds
+
+Average = 781.890054607 seconds (5 time entries)
+
+
+
+Algorithm: 3des-cbc
+Library used: scp
+Time taken (seconds): 
+	[798.9405348300934, 785.0172748565674, 784.2042050361633, 786.265683889389, 780.8113000392914]
+Number of runs tracked: 5
+
+For entries:
+	798.94053483 seconds
+	785.017274857 seconds
+	784.204205036 seconds
+	786.265683889 seconds
+	780.811300039 seconds
+
+Average = 787.04779973 seconds (5 time entries)
+
+
+
+Algorithm: aes256-cbc
+Library used: scp
+Time taken (seconds): 
+	[779.1824378967285, 781.3825278282166, 779.0181920528412, 779.1251850128174, 783.6627388000488]
+Number of runs tracked: 5
+
+For entries:
+	779.182437897 seconds
+	781.382527828 seconds
+	779.018192053 seconds
+	779.125185013 seconds
+	783.6627388 seconds
+
+Average = 780.474216318 seconds (5 time entries)
+
+
+
+Algorithm: arcfour256
+Library used: scp
+Time taken (seconds): 
+	[782.3558330535889, 788.1414330005646, 782.8374121189117, 779.2624230384827, 782.5448830127716]
+Number of runs tracked: 5
+
+For entries:
+	782.355833054 seconds
+	788.141433001 seconds
+	782.837412119 seconds
+	779.262423038 seconds
+	782.544883013 seconds
+
+Average = 783.028396845 seconds (5 time entries)
+
+
+
+Algorithm: cast128-cbc
+Library used: scp
+Time taken (seconds): 
+	[788.4183139801025, 782.5185890197754, 788.1250309944153, 782.5021350383759, 777.7736690044403]
+Number of runs tracked: 5
+
+For entries:
+	788.41831398 seconds
+	782.51858902 seconds
+	788.125030994 seconds
+	782.502135038 seconds
+	777.773669004 seconds
+
+Average = 783.867547607 seconds (5 time entries)
+
+
+
+Algorithm: aes128-ctr
+Library used: scp
+Time taken (seconds): 
+	[781.226900100708, 779.6921310424805, 780.9698941707611, 783.5831289291382, 788.428769826889]
+Number of runs tracked: 5
+
+For entries:
+	781.226900101 seconds
+	779.692131042 seconds
+	780.969894171 seconds
+	783.583128929 seconds
+	788.428769827 seconds
+
+Average = 782.780164814 seconds (5 time entries)
+
+
+
+Algorithm: aes192-cbc
+Library used: scp
+Time taken (seconds): 
+	[779.3784530162811, 781.8212349414825, 783.7160642147064, 782.3107450008392, 779.3892850875854]
+Number of runs tracked: 5
+
+For entries:
+	779.378453016 seconds
+	781.821234941 seconds
+	783.716064215 seconds
+	782.310745001 seconds
+	779.389285088 seconds
+
+Average = 781.323156452 seconds (5 time entries)
+
+
+
+Algorithm: aes128-cbc
+Library used: scp
+Time taken (seconds): 
+	[786.3615300655365, 777.95782995224, 783.1705281734467, 781.1526479721069, 778.0005030632019]
+Number of runs tracked: 5
+
+For entries:
+	786.361530066 seconds
+	777.957829952 seconds
+	783.170528173 seconds
+	781.152647972 seconds
+	778.000503063 seconds
+
+Average = 781.328607845 seconds (5 time entries)
+
+
+
+Algorithm: arcfour128
+Library used: scp
+Time taken (seconds): 
+	[782.6503009796143, 777.876179933548, 782.5976841449738, 777.9123110771179, 777.9387140274048]
+Number of runs tracked: 5
+
+For entries:
+	782.65030098 seconds
+	777.876179934 seconds
+	782.597684145 seconds
+	777.912311077 seconds
+	777.938714027 seconds
+
+Average = 779.795038033 seconds (5 time entries)
+
+
+
+Algorithm: aes192-ctr
+Library used: scp
+Time taken (seconds): 
+	[785.0989580154419, 782.4481830596924, 780.9727671146393, 789.7663540840149, 781.0235211849213]
+Number of runs tracked: 5
+
+For entries:
+	785.098958015 seconds
+	782.44818306 seconds
+	780.972767115 seconds
+	789.766354084 seconds
+	781.023521185 seconds
+
+Average = 783.861956692 seconds (5 time entries)
