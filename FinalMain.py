@@ -51,7 +51,6 @@ import Crypto.Cipher.DES3
 import Crypto.Cipher.Blowfish
 import Crypto.Cipher.ARC4
 import Crypto.Cipher.AES
-#import Crypto.Cipher.PKCS1_OAEP # ERROR TESTING RSA implementation?
 import Crypto.Util.Counter # For use with PyCrypto's AES implementation of a CTR mode stream cipher (acts just like an initialization vector)
 import Crypto.Cipher.blockalgo # To get modes of operation for ciphers
 import Crypto.PublicKey.RSA # For RSA module material
@@ -64,7 +63,6 @@ import Crypto.Hash.MD5 # For MD5
 import chilkat
 
 # import necessary custom files
-# import MyBitArray # ERROR TESTING REMOVE?
 import BinaryFileHandler
 from TimeResults import TimeResults
 
