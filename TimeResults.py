@@ -1,5 +1,7 @@
-# ERROR TESTING:
-# Requires commenting and organization.
+# Author: Thomas Brown
+# CSS 527 Cryptography Final Project
+# Records the time results for utilizing a cryptographic function to encrypt/
+# decrypt a message file.
 
 # Section for allowing import of custom classes
 import sys
@@ -11,16 +13,9 @@ if sys.path[0] != os.path.dirname(os.path.realpath(sys.argv[0])):
 ######################################
 #               IMPORTS              #
 ######################################
-import timeit # ERROR TESTING REMOVE
 from BinaryFileHandler import OpenAppendByteDataFile
 
-######################################
-#             CLASS START            #
-######################################
 class TimeResults:
-    ######################################
-    #            METHODS START
-    ######################################
     def __init__(self, algorithm_used_str, surrounding_library_str):
         # Algorithm used
         self.algorithmUsed = algorithm_used_str
@@ -66,34 +61,6 @@ class TimeResults:
             avgSum += result
 
         return avgSum/self.nRuns
-
-    # ERROR TESTING REMOVE
-    def AVG(*time_results):
-        '''Static function designed to find the average of the time results
-           given.'''
-        # Guard Conditions
-        if(len(time_results) < 1):
-            return 0
-
-        avgSum = 0
-        nResults = 0
-        # Sum
-        for result in time_results:
-            try:
-                avgSum += result.secondsTaken
-                nResults += 1
-            except AttributeError:
-                try:
-                    avgSum += result
-                    nResults += 1
-                except(TypeError, AttributeError):
-                    raise AttributeError("Invalid argument passed to TimeResults.Average method. Please only pass TimeResult objects.")
-
-        # Average
-        try:
-            return avgSum/nResults
-        except ZeroDivisionError:
-            raise ZeroDivisionError("Internal error in TimeResults.Average static method.")
 
     def AverageReadable(self):
         '''Creates a readable string representing the average of the time
@@ -176,16 +143,12 @@ if __name__ == "__main__":
     algorithmUsed = "SHA256"
     surroundingLibrary = "hashlib"
     secondsTaken = 6.2903e-7
-    # ERROR TESTING REMOVE nRuns = 2
     
     print("Testing module with:" \
           + os.linesep + "\t" + str(algorithmUsed) + " algorithm" \
           + os.linesep + "\t" + str(surroundingLibrary) + " library")
-          # ERROR TESTING REMOVE + os.linesep + "\t" + str(secondsTaken) + " seconds" \
-          # ERROR TESTING REMOVE + os.linesep + "\t" + "Number of runs: " + str(nRuns) + os.linesep)
     print()
 
-    # ERROR TESTING REMOVE myResults = TimeResults(algorithmUsed, surroundingLibrary, secondsTaken, iterationNumber)
     myResults = TimeResults(algorithmUsed, surroundingLibrary)
     print("Time results object displays as:")
     print(str(myResults))
